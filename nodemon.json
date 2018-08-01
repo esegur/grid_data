@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "america",
+        "JWT_KEY": "secret"
+    }
+}
